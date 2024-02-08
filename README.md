@@ -21,7 +21,7 @@
 - Rode a aplicação `npm run dev`
 - Teste a aplicação ( <a href="https://hoppscotch.io/">Hoppscotch</a> )
 
-## Melhorias.
+## Recursos e melhorias
 - [ ] **Autenticação Segura**: Usar protocolos de autenticação seguros, como OAuth ou JWT. Certifique-se de que as senhas dos usuários são criptografadas antes de serem armazenadas.
 - [ ] **Recuperação de Senha**: Implementar um sistema de recuperação de senha para ajudar os usuários que esqueceram suas senhas.
 - [ ] **Verificação de Email**: Adicionar uma etapa de verificação de email durante o processo de registro para confirmar a identidade do usuário.
